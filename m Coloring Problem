@@ -58,7 +58,7 @@ int main()
 		{ 1, 1, 0, 1 },
 		{ 1, 0, 1, 0 },
 	};
-	int m = 3; // Number of colors
+	int m = 3; 
 
 	int color[V];
 	for (int i = 0; i < V; i++)
